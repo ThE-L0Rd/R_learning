@@ -1,0 +1,44 @@
+Seq(): The seq function in R can generate the general or regular sequences from the given inputs. Where: From = beginning number of the sequence. To = Terminating the number of the sequence.
+[D[C[A[C[C[C[C[C[C[C[C[C By : it is clear baby.
+.
+rep replicates the value of x by y times
+ex. rep("Khaled", 8)
+.
+ "#" is used for adding commants.
+.
+Important NOTE: 
+U need to diffrentiate that using ""[D-" symbol when referring to an item, the Compiler will know[C[C[C[C[C[C[C[C[C[C[B[C[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D within an narrow, will return every thing exept that item
+ex. 
+>y <- [][D1,3,5,7,9[A[D[B[D[D[D[D[D[D[D[9[C[([C[C[C[C[C[C[C[C[C[C[C[D[D)
+>y[-3]
+[1] 1 3 7 9
+. 
+Inother Imp. note: 
+index starts from 1 NOT 0.
+ex. look at the previous example.
+If u want to extract all the elements within y, which is less than 6 u can type
+> y[y<6]
+[1] 1 3 5
+.
+matrix creates a matrix from the given set of values.
+
+[Aex
+> matrix(c(1,2,3,4,5,6,7,8,9), nrow = 3, byrow = TRUE)
+     [,1] [,2] [,3]
+[1,]    1    2    3
+[2,]    4    5    6
+[3,]    7    8    9
+> matrix(c(1,2,3,4,5,6,7,8,9), nrow = 3, byrow = FALSE)
+     [,1] [,2] [,3]
+[1,]    1    4    7
+[2,]    2    5    8
+[3,]    3    6    9
+-------> by sitting byrow to TRUE; the numbers will be arranged horizentally, and vice versa.
+.
+If u wonna extract entire row of a matrix u need to add ""[D," after the num. of the row. and vice versa with columns.
+ex.
+mat[3,]
+#will type row number 3
+>mat[,3]
+# will typer column number 3
+.
