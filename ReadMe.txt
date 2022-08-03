@@ -1,0 +1,1 @@
+بسم الله الرحمن الرحيمNotes folder:contains as the name sugestes, notes about the lectures
