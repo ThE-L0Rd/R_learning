@@ -1,1 +1,1 @@
-بسم الله الرحمن الرحيمNotes folder:contains as the name sugestes, notes about the lectures
+بسم الله الرحمن الرحيمNotes folder:contains as the name sugestes, notes about the lectures*from the 2nd series Notes.docx will include all the notes from the lectures.
